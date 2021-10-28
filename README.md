@@ -1,1 +1,1 @@
-# odin-recipes
+This is the result of my first project in The Odin Project, a recipe website! It is currently built with only HTML, and includes a homepage and three recipe subpages.
