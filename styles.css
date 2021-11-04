@@ -1,0 +1,16 @@
+h1 {
+    font-size: 52px;
+    font-weight: bold;
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.recipes {
+    color: red;
+    font-size: 32px;
+}
+
+.recipetitle {
+    color: green;
+    text-align: center;
+}
